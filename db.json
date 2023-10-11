@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "id": 1001,
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Technical Issue"
+    },
+    {
+      "id": 2,
+      "title": "Order Issue"
+    },
+    {
+      "id": 3,
+      "title": "Sales Feedback"
+    },
+    {
+      "id": 4,
+      "title": "Customer Feedback"
+    },
+    {
+      "id": 5,
+      "title": "Connection Error"
+    },
+    {
+      "id": 6,
+      "title": "Update Issue"
+    },
+    {
+      "id": 7,
+      "title": "Other Problems"
+    },
+    {
+      "id": 8,
+      "title": "FAQ"
+    },
+    {
+      "id": 9,
+      "title": "Details Update"
+    },
+    {
+      "id": 10,
+      "title": "Upgrade"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Some Title",
+      "content": "mhvnfhgn",
+      "category": {
+        "id": 2
+      },
+      "status": "draft"
+    },
+    {
+      "id": 1,
+      "title": "Some Title",
+      "content": "Some Description",
+      "category": {
+        "id": 2
+      },
+      "status": "draft"
+    },
+    {
+      "id": 1,
+      "title": "Some Title",
+      "content": "Some Description",
+      "category": {
+        "id": 2
+      },
+      "status": "draft"
+    },
+    {
+      "id": 1,
+      "title": "Some Title",
+      "content": "Some Description",
+      "category": {
+        "id": 2
+      },
+      "status": "draft"
+    },
+    {
+      "id": 1,
+      "title": "Some Title",
+      "content": "Some Description",
+      "category": {
+        "id": 2
+      },
+      "status": "draft"
+    },
+    {
+      "id": 1,
+      "title": "Some Title",
+      "content": "Some Description",
+      "category": {
+        "id": 2
+      },
+      "status": "draft"
+    },
+    {
+      "id": 1,
+      "title": "Some Title",
+      "content": "Some Description",
+      "category": {
+        "id": 2
+      },
+      "status": "draft"
+    },
+    {
+      "id": 1,
+      "title": "Some Title",
+      "content": "Some Description",
+      "category": {
+        "id": 2
+      },
+      "status": "draft"
+    }
+  ]
+}
